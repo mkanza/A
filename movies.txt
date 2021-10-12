@@ -8,3 +8,12 @@ Ironman
 Dune 
 Time
 Monsters 
+compA
+compB
+compC
+compD
+compE
+compF
+compG
+compH
+compI
