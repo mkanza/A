@@ -26,3 +26,12 @@ compF
 compG
 compH
 compI
+DirA
+DirA
+DirA
+DirA
+DirA
+DirA
+DirA
+DirA
+DirA
