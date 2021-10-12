@@ -5,3 +5,6 @@ starwars
 Nemo
 Avengers
 Ironman 
+Dune 
+Time
+Monsters 
