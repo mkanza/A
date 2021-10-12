@@ -17,3 +17,12 @@ Monsters
 2018
 2019
 2020
+compA
+compB
+compC
+compD
+compE
+compF
+compG
+compH
+compI
